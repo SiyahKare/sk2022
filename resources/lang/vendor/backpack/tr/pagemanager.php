@@ -8,6 +8,7 @@ return [
     'meta_keywords' => 'Meta Anahtar Kelimeler',
     'meta_title' => 'Meta Başlığı',
     'metas' => 'SEO',
+    'image' => 'Görseli',
     'name' => 'Adı',
     'open' => 'Açık',
     'page' => 'sayfa',
